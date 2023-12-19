@@ -1,4 +1,4 @@
 # third-repo
 this is my third repository
 <br>
-Author - NAVAJITA SINGH
+Author - NAVAJITA SINGH (Apna College)
